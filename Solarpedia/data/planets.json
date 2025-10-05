@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Mercury",
+    "image": "assets/Mercury1.jpg",
+    "facts": "Closest planet to the Sun. Smallest planet in the Solar System."
+  },
+  {
+    "name": "Venus",
+    "image": "assets/Venus2.jpg",
+    "facts": "Second planet from the Sun. Hottest planet due to greenhouse effect."
+  },
+  {
+    "name": "Earth",
+    "image": "assets/Earth2.jpg",
+    "facts": "Third planet from the Sun. Only planet known to support life."
+  },
+  {
+    "name": "Mars",
+    "image": "assets/Mars2.jpg",
+    "facts": "Fourth planet from the Sun. Known as the Red Planet."
+  },
+  {
+    "name": "Jupiter",
+    "image": "assets/Jupiter2.jpg",
+    "facts": "Largest planet in the Solar System. Gas giant with a Great Red Spot."
+  },
+  {
+    "name": "Saturn",
+    "image": "assets/Saturn2.jpg",
+    "facts": "Famous for its large rings. Gas giant."
+  },
+  {
+    "name": "Uranus",
+    "image": "assets/uranus2.jpg",
+    "facts": "Ice giant. Rotates on its side."
+  },
+  {
+    "name": "Neptune",
+    "image": "assets/neptune.jpg",
+    "facts": "Farthest planet from the Sun. Known for strong winds."
+  }
+]
